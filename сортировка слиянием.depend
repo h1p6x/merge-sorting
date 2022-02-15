@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1617166324 source:g:\Проекты кодблокс\сортировка слиянием\main.cpp
-	<iostream>
-	<fstream>
-	<locale.h>
-	<string.h>
-
